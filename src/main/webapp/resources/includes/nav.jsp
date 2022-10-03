@@ -34,7 +34,7 @@
                 <form class="d-flex" id=searchForm action="/board/list" method=get>
 	                <select name=type class="form-select me-2">
 						<option value="T" selected>제목</option>
-						<option value="C">내용</option>
+						<option value="C">내용</option> 
 						<option value="W">작성자</option>
 					</select>
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name=keyword>
