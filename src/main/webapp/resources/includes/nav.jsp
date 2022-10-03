@@ -30,7 +30,7 @@
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                     </li>
                 </ul>
-   
+    
                 <form class="d-flex" id=searchForm action="/board/list" method=get>
 	                <select name=type class="form-select me-2">
 						<option value="T" selected>제목</option>
